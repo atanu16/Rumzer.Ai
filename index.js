@@ -5,7 +5,7 @@ const dotenv = require("dotenv").config();
 const port = process.env.PORT || 5000;
 
 const app = express();
-const hostname = '0.0.0.0'
+
 
 // Enable body parser
 app.use(express.json());
