@@ -1,11 +1,13 @@
 # Rumzer.Ai
 Text to Image Generator | OpenAI
 
+[Demo](https://proud-dog-suspenders.cyclic.app/)
+
 https://user-images.githubusercontent.com/83860778/215260868-985d1e42-e94d-4023-9a87-a325b1103f65.mp4
 
 Note:This is a image generator built with Node.js and Express that uses [OpenAI's Dall-E models](https://beta.openai.com/docs/guides/images) to generate images.
 
-[Demo](https://proud-dog-suspenders.cyclic.app/)
+
  
 
 
