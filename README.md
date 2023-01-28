@@ -32,7 +32,7 @@ Run server
 npm start
 ```
 
-or(if doesnt work)
+or (if doesnt work)
 
 ```bash
 npm run dev
