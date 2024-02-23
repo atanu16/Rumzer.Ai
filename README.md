@@ -44,6 +44,5 @@ npm run dev
 ```
 
 
-Visit `http://localhost:3000` in your browser.
+Visit `http://localhost:5000` in your browser.
 
-The endpoint is at `POST http://localhost:3000/openai/generateimage`.
